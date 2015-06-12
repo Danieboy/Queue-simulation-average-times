@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1411369355 source:d:\c++\dan andersson ida10\inlämningsuppgift 6\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<cstdlib>
+
+1434111402 source:d:\annat\c++\dan andersson ida10\inlämningsuppgift 6\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+	<vector>
+	<cstdlib>
+
